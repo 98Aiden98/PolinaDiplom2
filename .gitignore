@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.local
+client/node_modules/
+client/dist/
+server/node_modules/
+server/dist/
+npm-debug.log*
